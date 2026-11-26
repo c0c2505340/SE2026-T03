@@ -11,7 +11,7 @@ def ichikawa():
 
 def kimura():
     kimura = "木村課題4"
-    return "dk木村" +kimura
+    return "BK木村" +kimura
 
 def master():
     master = "髙橋"
