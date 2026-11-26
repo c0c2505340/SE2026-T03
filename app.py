@@ -15,4 +15,4 @@ def kimura():
 
 def master():
     master = "髙橋"
-    return "end" + master
+    return "End" + master
